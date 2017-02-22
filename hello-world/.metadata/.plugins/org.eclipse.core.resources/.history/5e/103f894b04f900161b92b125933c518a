@@ -1,0 +1,13 @@
+//1
+package br.edu.ifc.concordia.in.calculadora;
+
+public class tarefa1_java {
+	
+public static main (String [] args){
+	System.out.println("Primeiro programa, só sucesso"); 
+}
+
+}
+
+
+

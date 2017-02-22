@@ -1,0 +1,16 @@
+//2
+
+package teste1;
+
+public class introdução_java {
+
+public static void main(String[] args) {
+
+System.out.println("Primeiro programa");
+
+System.out.println("só sucesso")
+
+}
+
+}
+
