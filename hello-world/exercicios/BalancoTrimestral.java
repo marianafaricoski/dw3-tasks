@@ -1,6 +1,4 @@
-package meuprojeto;
-
-public class BalancoTrimestral {
+class BalancoTrimestral {
 
 	public static void main(String[] args) {
 		int gastosJaneiro = 15000;
@@ -10,7 +8,7 @@ public class BalancoTrimestral {
 		double mediaMensal = (gastosJaneiro + gastosFevereiro + gastosMarco) / 3;
 		
 		System.out.println(gastosTrimestre);
-		System.out.println("Valor da média mensal =  " + mediaMensal);
+		System.out.println("Valor da mÃ©dia mensal =  " + mediaMensal);
 		
 	}
 
