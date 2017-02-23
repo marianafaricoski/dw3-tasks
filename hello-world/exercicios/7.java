@@ -1,6 +1,6 @@
-package meuprojeto;
+package mprojeto;
 
-public class Exercicio7 {
+public class 7 {
 	public static void main(String[] args) {
 		int x = 13;
 		
