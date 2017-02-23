@@ -1,6 +1,6 @@
-package meuprojeto;
+package projeto;
 
-public class Exercicio1 {
+public class 1 {
 
 	public static void main(String[] args) {
 		
